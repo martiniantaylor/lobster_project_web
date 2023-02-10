@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Lobster Project - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Lobster project -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications](#full-list-of-publications). (https://arxiv.org/search/?**
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
